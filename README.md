@@ -10,7 +10,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 -  Run 'npm start'.
 -  Enjoy :)
 
-### Deployment link - 
+### Deployment link - https://react-mini-ipod.vercel.app/
 
 ## Available Scripts
 
